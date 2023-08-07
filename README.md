@@ -55,10 +55,6 @@ while(i<10):
     i=i+1
 ```
 
-### do while
-```python
-
-```
 ### for
 ```python
 for variavel in range(inicio, final, quantidade-de-incremento):
